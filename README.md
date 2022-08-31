@@ -25,7 +25,7 @@
 3. Open PowerShell from the directory containing your `HashDaddy.ps1` file and run the following Command:
 
   ```powershell
-    powershell.exe .\HashDaddy.ps1 -hash dddb022f40affd9b0e247e137cb8005bf798ae94f07fa6dcfdcc9ab798389958a179b05d5e147f0a
+  powershell.exe .\HashDaddy.ps1 -hash dddb022f40affd9b0e247e137cb8005bf798ae94f07fa6dcfdcc9ab798389958a179b05d5e147f0a
   ```
 
   *__NOTE:__ Just be sure to replace the Hash example shown above, after the `-hash`, with your copied Hash Value*
